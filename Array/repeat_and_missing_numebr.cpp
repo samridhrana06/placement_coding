@@ -5,7 +5,7 @@ pair<int, int> missingAndRepeating(vector<int> &arr, int n)
 {
     // Write your code here
     pair<int, int> p;
-    unordered_map<int,int> mp;
+    unordered_map<int,;
 
     for (int i = 0; i < n; i++)
     {
